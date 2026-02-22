@@ -11,8 +11,8 @@ This repository documents my hands-on learning journey while preparing for the C
 ## Topics Covered
 
 ### Hardware
-- Motherboard
-- CPU
+- [Motherboard](hardware/motherboard.md)
+- [CPU](hardware/cpu.md)
 - RAM
 - Power Supply
 - Storage Devices

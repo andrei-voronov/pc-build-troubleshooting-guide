@@ -22,7 +22,7 @@ RAM (Random Access Memory) is volatile memory used to temporarily store data and
 - Memory not detected in BIOS
 - Blue Screen errors (BSOD)
 - Mixing incompatible modules
-- Importer seating of RAM sticks
+- Improper seating of RAM sticks
 
 ## Troubleshooting
 1. Reseat RAM modules.

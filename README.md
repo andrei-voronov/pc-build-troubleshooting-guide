@@ -13,7 +13,7 @@ This repository documents my hands-on learning journey while preparing for the C
 ### Hardware
 - [Motherboard](hardware/motherboard.md)
 - [CPU](hardware/cpu.md)
-- [RAM](hardware/cpu.md)
+- [RAM](hardware/ram.md)
 - Power Supply
 - Storage Devices
 

@@ -23,8 +23,8 @@ This repository documents my hands-on learning journey while preparing for the C
 - Boot Order Configuration
 
 ### Networking
-- IP addressing basics
-- DHCP
+- [IP addressing basics](networking/ip-basics.md)
+- [DHCP](networking/dhcp.md)
 - Router configuration
 
 ### Troubleshooting

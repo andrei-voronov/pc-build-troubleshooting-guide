@@ -1,7 +1,7 @@
 # IP Addressing Basics
 
 ## Definition
-An IP address (Internet Protocol address) is a unique numerical identifier assigned to a device in a network. It allows devices to communicate and exchange data.
+An IP address is a logical address assigned to a network interface that allows devices to communicate using the TCP/IP protocol.
 
 ## IPv4 Structure
 - IPv4 uses 32 bits.

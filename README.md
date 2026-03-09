@@ -25,7 +25,7 @@ This repository documents my hands-on learning journey while preparing for the C
 ### Networking
 - [IP addressing basics](networking/ip-basics.md)
 - [DHCP](networking/dhcp.md)
-- Router configuration
+- [Router basics](networking/router-basics.md)
 
 ### Troubleshooting
 - No display issues

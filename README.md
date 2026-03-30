@@ -14,7 +14,7 @@ This repository documents my hands-on learning journey while preparing for the C
 - [Motherboard](hardware/motherboard.md)
 - [CPU](hardware/cpu.md)
 - [RAM](hardware/ram.md)
-- Power Supply
+- [Power Supply](hardware/power-supply.md)
 - Storage Devices
 
 ### BIOS / UEFI

@@ -30,7 +30,7 @@ This repository documents my hands-on learning journey while preparing for the C
 ### Troubleshooting
 - No display issues
 - No boot scenarios
-- No internet connection
+- [No internet connection](troubleshooting/no-internet.md)
 
 ---
 
